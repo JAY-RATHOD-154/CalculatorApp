@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity {
     Button one, two, three, four, five, six, seven, eight, nine, zero;
     Button add, sub, mul, div, equals, clearText;
 
-    double valueOne = Double.NaN;
-    double valueTwo;
+    double valueOne;
+    double valueTwo = Double.NaN;
 
     char CURRENT_ACTION;
 
