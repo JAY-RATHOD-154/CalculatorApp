@@ -1,1 +1,1 @@
-A Basic calculator app where we have used constraint layout for the buttons and a EditView for entering the values and 
+A Basic calculator app where we have used constraint layout for the buttons and a EditView for entering the values and we have used styles.xml to give a comman styles to all the buttons and written the logic inn the MainActivity.java file to perform the calculations.
